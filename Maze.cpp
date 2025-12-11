@@ -6,7 +6,7 @@
 Maze:Maze(String name_file){
 
     std::fstream fs(name_file, std::fstream::in | std::fstream::out);
-
+    std::char s;
     
     
     
