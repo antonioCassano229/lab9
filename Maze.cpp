@@ -10,6 +10,7 @@ Maze:Maze(String name_file){
     
     
     
+    
 
 }
 
